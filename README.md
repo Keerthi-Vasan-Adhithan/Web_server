@@ -53,7 +53,7 @@ print("my webserver is running...")
 httpd.serve_forever()
 ```
 # OUTPUT:
-[OUTPUT](./images/welcome akv.png)
+[OUTPUT](./images/Out.png)
 # RESULT:
 
 The program is executed succesfully
